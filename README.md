@@ -18,6 +18,7 @@ An almost desktop environment made with [AwesomeWM](https://awesomewm.org/) foll
 - [Roboto](https://fonts.google.com/specimen/Roboto) as the **font**
 - [Rofi](https://github.com/DaveDavenport/rofi) for the app launcher
 - [Compton fork](https://github.com/tryone144/compton) for the compositor (blur and animations)
+- [Light](http://haikarainen.github.io/light/) for backlights (brightness control)
 - (Optional) [Materia](https://github.com/nana-4/materia-theme) as GTK theme
 - (Optional) [Papirus Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) as icon theme
 - (Optional) [lxappearance](https://sourceforge.net/projects/lxde/files/LXAppearance/) to set up the gtk and icon theme
